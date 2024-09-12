@@ -1,7 +1,5 @@
-##Identifying Doctor Success and Patient Adherence##
-#The team at Dermo Inc released a new medication, DermSkin, in January 2024. Over the last 6 months, they’ve seen significant growth in the use of it across the US. The team is looking to identify what doctors are seeing the most success with prescribing DermSkin to their patients to target similar doctors going forward.
-To answer this question, they’ve shared the attached dataset with you. They’d like you to use this dataset to identify which doctors are having the most success with the brand. You should
-consider questions like:
+## Identifying Doctor Success and Patient Adherence
+##### The team at Dermo Inc released a new medication, DermSkin, in January 2024. Over the last 6 months, they’ve seen significant growth in the use of it across the US. The team is looking to identify what doctors are seeing the most success with prescribing DermSkin to their patients to target similar doctors going forward. To answer this question, they’ve shared the attached dataset with you. They’d like you to use this dataset to identify which doctors are having the most success with the brand. You should consider questions like:
 ● Which doctors specifically are writing the most prescriptions?
 ● What specialty of doctors are shipping the most orders?
 ● How often are doctors writing prescriptions, but their orders are not ultimately being
